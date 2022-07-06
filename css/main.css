@@ -1448,9 +1448,9 @@ body.overflow {
 }
 
 .logo img {
-    height: 100%;
     width: auto;
     display: block;
+    width: 200px;
 }
 
 .header-btn {
@@ -1956,9 +1956,9 @@ body.overflow {
     max-height: 1000px;
 }
 #land{
-    height: 700px;
+    height: 422px;
     width: 700px;
-    margin-top: -208px;
+    margin-top: 145px;
 }
 @media (min-width: 1024px) {
     .intro-section {
@@ -1977,9 +1977,9 @@ body.overflow {
         max-height: 695px;
     }
     #land{
-        height: 400px;
+        height: 241px;
         width: 400px;
-        margin-top: -91px;
+        margin-top: 23px;
     }
 }
 

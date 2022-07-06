@@ -19,7 +19,7 @@
 <body>
 <div class="wrapper">
     <header class="header">
-        <div class="container"><a class="logo" href="index-2.html"><img src="images/logo.png" alt=""></a>
+        <div class="container"><a class="logo" href="#"><img src="images/logo.png" alt="" width="200px"></a>
             <nav class="nav js-nav">
                 <ul class="header-btn">
                     <li><a href="#project" style="color: #FFFFFF;">Project</a></li>
