@@ -1988,9 +1988,9 @@ body.overflow {
         max-height: 593px;
     }
     #land{
-        height: 300px;
-        width: 300px;
-        margin-top: -82px;
+        /* height: 300px; */
+        width: 100%;
+        margin-top: 28px;
     }
 }
 
@@ -2230,6 +2230,7 @@ body.overflow {
     flex-direction: column;
     -webkit-box-align: start;
     align-items: flex-start;
+    padding-top:50px;
 }
 
 .item__title {

@@ -30,7 +30,7 @@
                     <li><a href="#faq" style="color: #FFFFFF;">Faq</a></li>
                 </ul>
                 <a class="btn" href="#" type="button">Mint</a>
-                <a class="btn pl-4 ml-3" href="#" type="button">Opensea</a>
+                <a class="btn pl-4 ml-3" href="#" type="button">Magic Eden</a>
             </nav>
             <div class="burger js-burger"><span></span><span></span><span></span></div>
         </div>
@@ -52,13 +52,7 @@
                             <p class="info__text"><a href="#" class="info__text">Mint your TORU</a></p>
                         </div>
                     </center>
-                    <!--<a href="https://payme.hsbc/hangrypiggy">
-                    <span class="subtitle mt-3" data-aos="fade-up"
-                          data-aos-duration="1250" data-aos-once="true">Click here to get 🐷NFT by <b>PayMe</b> $600 HKD (NFT+Gas fee included)
-                    </span></a>-->
-                    <!--<div class="text-center">
-                        <img class="qr_image" src="images/qr.jpg">
-                    </div>-->
+
                 </div>
                 <div class="row">
                     <img src="images/land.png" id="land">
@@ -115,7 +109,7 @@
             </div>
         </section>
 
-        <section class="item-section" id="equipment" style="padding: 2rem;">
+        <section class="item-section" id="equipment" style="padding: 0 2rem;">
             <div>
                 <div class="item-wrap">
                     <div class="item">
