@@ -1297,6 +1297,7 @@ body.overflow {
 }
 
 .header .nav {
+    margin-top: 2rem;
     position: fixed;
     top: 4.5rem;
     right: -100%;
