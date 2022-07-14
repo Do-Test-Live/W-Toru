@@ -39,7 +39,6 @@
         <section class="intro-section">
             <div class="container">
                 <div class="intro-links" data-aos="fade-up" data-aos-duration="1100" data-aos-once="true">
-                    <!--<a class="link" href="#" target="_blank">EAT TO EARN</a>-->
                     <a class="link" href="https://discord.gg/WY7yAuY5my" target="_blank">discord</a>
                     <a class="link" href="https://twitter.com/ToRuToRu_World" target="_blank">twitter</a>
 
@@ -68,9 +67,6 @@
                             <div class="col-md-6">
                                 <h2 class="section-title" data-aos="fade-up" data-aos-duration="1000"
                                     data-aos-once="true">TORU TORU</h2>
-                                <!--<p class="sub-text" data-aos="fade-up" data-aos-duration="1100" data-aos-once="true">
-                                    The HangryPiggy Pre-Sale will start on 30th June 2022, 08:00pm HKT.
-                                </p>-->
                             </div>
                             <div class="col-md-6">
                                 <p class="map-desc scroll scroll-wrap" data-aos="fade-up" data-aos-duration="1200"
@@ -209,9 +205,6 @@
                         </div>
                         <div class="map__item" data-aos="fade-up" data-aos-duration="1200" data-aos-once="true">
                             <span class="map__percent">Phase Two</span>
-                            <!-- <p class="map-desc">After 852 Hungry Piggies are minted. We will try to do some membership
-                                 events……
-                             </p>-->
                             <ul class="info-list" data-aos="fade-up" data-aos-duration="1200" data-aos-once="true"
                                 style="color: black">
                                 <li>Create our own brand
@@ -229,8 +222,6 @@
                         <div class="map" id="third">
                             <div class="map__item" data-aos="fade-up" data-aos-duration="1100" data-aos-once="true">
                                 <span class="map__percent">Phase Three</span>
-                                <!--<p class="map-desc"> Having collaboration with Cha chaan teng and restaurants to its NFT
-                                    holder.</p>-->
                                 <ul class="info-list" data-aos="fade-up" data-aos-duration="1200" data-aos-once="true"
                                     style="color: black">
                                     <li>51% of the revenue goes to the community treasury
@@ -240,12 +231,6 @@
                                     </li>
                                 </ul>
                             </div>
-
-                            <!--<div class="map__item" data-aos="fade-up" data-aos-duration="1200" data-aos-once="true">
-                                <span class="map__percent">Phase Four - Branded items and more!</span>
-                                <p class="map-desc"> We will be creating physical collectible items for our dinosaur and
-                                    gifting them to its NFT holder.</p>
-                            </div>-->
                         </div>
                     </div>
                 </div>
@@ -299,25 +284,6 @@
                         </div>
                     </div>
                 </div>
-                <!--<div class="avatar-img">
-                    <div class="card-wrap">
-                        <div class="row">
-                            <div class="col-md-3 col-sm-12">
-                                <div class="card" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
-                                    <div class="card__wrap">
-                                        <div class="card__img-wrap">
-                                            <div class="card__img"><img src="images/o41.png" alt=""></div>
-                                        </div>
-                                        <button class="card__link btn secondary" id="fifth-button" type="button"
-                                                style="font-size: 16px;">
-                                            ELEVATE PR COMPANY<br>(Paris Chan)- Marketing<br> Director
-                                        </button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>-->
             </div>
         </section>
 
@@ -377,23 +343,6 @@
 
         <section class="bottom-section">
             <div class="container"><img src="images/bottom-bg.png" alt="">
-                <!--<div class="bot-content">
-                    <div class="bot-block">
-                        <div class="bot-block-wrap"><span style="font-family: chubb">Weee!!</span></div>
-                    </div>
-                    <div class="bot-block">
-                        <div class="bot-block-wrap"><span style="font-family: chubb">Roarrr!!</span></div>
-                    </div>
-                    <div class="bot-block">
-                        <div class="bot-block-wrap"><span style="font-family: chubb">YEEET!!</span></div>
-                    </div>
-                    <div class="bot-block">
-                        <div class="bot-block-wrap"><span style="font-family: chubb">Meh!!</span></div>
-                    </div>
-                    <div class="bot-block">
-                        <div class="bot-block-wrap"><span style="font-family: chubb"> Brrr!!</span></div>
-                    </div>
-                </div>-->
             </div>
         </section>
     </main>
